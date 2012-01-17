@@ -5,9 +5,9 @@ require "nori/version"
 Gem::Specification.new do |s|
   s.name        = "nori"
   s.version     = Nori::VERSION
-  s.authors     = ["Daniel Harrington", "John Nunemaker", "Wynn Netherland"]
-  s.email       = "me@rubiii.com"
-  s.homepage    = "http://github.com/rubiii/nori"
+  s.authors     = ["Daniel Harrington", "John Nunemaker", "Wynn Netherland", "Henry Hsu"]
+  s.email       = "hhsu@zendesk.com"
+  s.homepage    = "http://github.com/hsume2/nori"
   s.summary     = "XML to Hash translator"
   s.description = s.summary
 
